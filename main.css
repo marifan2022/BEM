@@ -1,0 +1,405 @@
+body  {
+  .wrapper { 
+position: relative;
+width: 1920px;
+height: 2930px;
+background-color: #FFFFFF;
+}
+.container {
+  position: absolute;
+  width: 1141px;
+  height: 123.36px;
+margin: 26,64px 389px 1052px 390px ;  
+  }
+      .logo__pic {
+color: 255,0,0;
+position: absolute;
+width: 85px;
+height: 36px;
+left: 390px;
+top: 29px;
+background: url(лого.png);
+ }
+ .container {
+  width: 1920px;
+height: 1202px;
+background-color: #FFFFFF;
+margin: 1019px 780px 1606px 778px;
+ }
+ul.navbar {
+position: absolute;
+width: 264px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav.li /*Главная*/ {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav.li /*Услуги*/ {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav.li /*Отзывы*/ {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.Schedule {
+font-family: Open Sans, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+}
+.contacts {
+position: absolute;
+width: 191px;
+height: 35px;
+left: 1340px;
+top: 26.64px;
+font-family: Open Sans, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 35px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.hero {
+  .container {
+position: absolute;
+width: 511px;
+height: 333px;
+margin: 196px 1019px 673px 390px;
+}
+ .h1 {
+    font-family: Open Sans, sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    font-color: #ffffff;
+    background: #000000;
+  }
+  .btn {
+position: absolute;
+width: 168px;
+height: 55px;
+background: #F5170E;
+border-radius: 35px;
+margin: 474px 1362px 673px 390px;
+      }
+  .container {
+  background: url(hero.jpg);
+position: absolute;
+width: 1140px;
+height: 549px;
+margin: 875px 780px 305px 778uhpx;
+             }
+.h2 {
+  font-size:  36px; 
+  font-family: Open Sans, sans-serif;
+  font-weight: bold;
+  font-color: #ffffff;
+}
+.ul {
+      li.h3 {
+        font-family: Open Sans, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+          }
+      li.btn {
+        box-sizing: border-box;
+        position: absolute;
+        width: 135px;
+        height: 55px;
+        margin: 224px 203px 26px 24px ;
+        border: 1px solid #F5170E;
+        border-radius: 35px;
+        font-family: Open Sans, sans-serif;
+        font-size: 14px; 
+        font-weight: 700;
+        font-color: #ff0000
+              }
+  }
+.ul {
+  .li 
+      .h3 {
+  font-family: Open Sans, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-color: #ffffff;
+                       }
+      .btn {
+        box-sizing: border-box;
+        position: absolute;
+        width: 135px;
+        height: 55px;
+        margin: 224px 203px 26px 24px ;
+        border: 1px solid #ffffff;
+        border-radius: 35px;
+        font-family: Open Sans, sans-serif;
+        font-size: 14px; 
+        font-weight: 700;
+        font-color: #ff0000
+              }
+  }
+.ul {
+      li.h3 {
+  font-family: Open Sans, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-color: #ffffff;
+       }
+      li.btn {
+        box-sizing: border-box;
+        position: absolute;
+        width: 135px;
+        height: 55px;
+        margin: 224px 203px 26px 24px ;
+        border: 1px solid white;
+        border-radius: 35px;
+        font-family: Open Sans, sans-serif;
+        font-size: 14px; 
+        font-weight: 700;
+        font-color: red
+              }
+  }
+.news {
+  .h2 {
+  font-family: Open Sans, sans-serif;
+  font-color: #ffffff;
+  fony-size: 36px;
+  font-weight: bold;
+        }
+        .ul {
+          li.pictures  {
+            /*news date*/
+            position: absolute;
+            width: 557px;
+            height: 394px;
+            margin: 1551px 974px 985px 389px
+            background: url(plain);
+            border-radius: 5px;
+          }
+          li.h3 {
+          font-family: Open Sans, sans-serif;
+          font-style: normal;
+          font-weight: 700;
+          font-size: 24px;
+          position: absolute;
+          }
+          li.img { /*surfe*/
+          width: 557px;
+          height: 394px;
+          left: 971px;
+          top: 1551px;
+          background: url(surfer);
+          border-radius: 5px;
+          }
+.about us {
+  position: absolute;
+  width: 1139px;
+  height: 552px;
+  margin:389px 2175px ;
+}
+  .h2 {
+    font-family: Open Sans, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    Line height:27px;
+  }
+  .btn {    
+  position: absolute;
+  width: 168px;
+  height: 55px;
+  margin: 824px 2606px;
+  background: #F5170E;
+  border-radius: 35px;
+  }
+.container {
+  position: absolute;
+  width: 1141px;
+  height: 123.36px;
+margin: 26,64px 389px 1052px 390px ;  
+  }
+  .logo__pic {
+color: 255,0,0;
+position: absolute;
+width: 85px;
+height: 36px;
+left: 390px;
+top: 29px;
+background: url(лого.png);
+ }
+ .container {
+  width: 1920px;
+height: 1202px;
+background-color: #FFFFFF;
+margin: 1019px 780px 1606px 778px;
+ }
+.ul.navbar {
+position: absolute;
+width: 264px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav.li Главная {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav li Услуги {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.nav li Отзывы {
+font-family: Open Sans,sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+font-color: 255,255,255; 
+line-height: 19px;
+  /* identical to box height */
+display: flex;
+align-items: center;
+background-color: 0,0,0;
+position: absolute;
+width: 56px;
+height: 19px;
+left: 554px;
+top: 42px;
+}
+.Schedule {
+font-family: Open Sans, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+}
+.contacts {
+position: absolute;
+width: 191px;
+height: 35px;
+left: 1340px;
+top: 26.64px;
+font-family: Open Sans, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 35px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.social {
+background: black;
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1230px;
+top: 2833px;
+background: url(t.png);
+}
+.social {
+background: black;
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1230px;
+top: 2833px;
+background: url(f.png);
+}
+.social {
+background: black;
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1230px;
+top: 2833px;
+background: url(vk.png);
+}
+.social {
+background: black;
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1230px;
+top: 2833px;
+background: url(in.png);
+}
